@@ -2,8 +2,9 @@
 
 ## Overview
 This project documents the design and delivery of an enterprise security compliance 
-dashboard built during my internship at W.R. Grace and Co. (May-August 2025). The 
-dashboard processed 1,000+ global security incident records to surface KPIs, risk 
+dashboard built during my internship at W.R. Grace and Co. (May-August 2025). The dashboard is now the property of W.R. Grace and Co., as such I can only share a written breakdown of my development process and data modeling choices - all of which are entirely transferable and non-confidential. 
+
+The dashboard processed 1,000+ global security incident records to surface KPIs, risk 
 trends, and compliance metrics for security leadership, reducing manual reporting 
 time by 40%.
 
